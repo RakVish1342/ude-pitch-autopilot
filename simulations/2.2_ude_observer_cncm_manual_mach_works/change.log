@@ -1,0 +1,19 @@
+Mdot_exp.m deleted; M=3 uncommented; Added "global M" to a_exp.m and b_exp.m
+disturbance.m deleted
+ext_dist.m deleted
+fil_exp.m removed
+removed unecessary global vars
+
+
+Set observer poles: l1,l2,l3
+
+Reference - xcaps == nucap --> +uacap, +dcap --> gives u --> A,B (plant == alphatripdot == a_exp and b_exp)
+                                                        |
+                                                         --> Acap, Bcap ( alphatripdotcap == a_exp_cap/obs_a_exp and b_exp_cap/obs_b_exp)
+                        
+Replicate controller blocks for observer; rename funcs and variable in observer blocks
+Make all controller blocks take input from output of observer block
+
+Move the disturbance block to upper section to ensure it stays in the REAL portion of the simulink block
+Check all block's function names and ensure that they have been changed/retained as necessary
+

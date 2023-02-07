@@ -1,0 +1,11 @@
+\beamer@sectionintoc {2}{Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {3}{Missile Model}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Governing Equations}{4}{0}{2}
+\beamer@subsectionintoc {3}{2}{Overview of UDE Controller-Observer}{6}{0}{2}
+\beamer@subsectionintoc {3}{3}{Controller and Observer Design}{7}{0}{2}
+\beamer@subsectionintoc {3}{4}{Stability Analysis}{13}{0}{2}
+\beamer@sectionintoc {4}{Simulations}{14}{0}{3}
+\beamer@subsectionintoc {4}{1}{Case I: UDE with Mach Dynamics \& External Disturbance}{15}{0}{3}
+\beamer@subsectionintoc {4}{2}{Case II: Comparative Study With Aerodynamic Uncertainties}{17}{0}{3}
+\beamer@sectionintoc {5}{Results and Conclusion}{19}{0}{4}
+\beamer@sectionintoc {6}{Novelty and Future Work}{20}{0}{5}

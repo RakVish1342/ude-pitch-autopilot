@@ -1,0 +1,11 @@
+\beamer@sectionintoc {2}{Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {3}{Missile Model}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Missile Model}{4}{0}{2}
+\beamer@subsectionintoc {3}{2}{Controller Design}{6}{0}{2}
+\beamer@subsectionintoc {3}{3}{Performance of UDE based controller}{12}{0}{2}
+\beamer@sectionintoc {4}{Performance of UDE based controller with second order actuator in the loop}{15}{0}{3}
+\beamer@sectionintoc {5}{Actuator compensated UDE based control law}{18}{0}{4}
+\beamer@subsectionintoc {5}{1}{Method 1: Tuning of $\tau $}{19}{0}{4}
+\beamer@subsectionintoc {5}{2}{Method 2: Using Compensator Form 1}{24}{0}{4}
+\beamer@subsectionintoc {5}{3}{Method 3: Using Compensator Form 2}{29}{0}{4}
+\beamer@sectionintoc {6}{Conclusion and future work}{38}{0}{5}

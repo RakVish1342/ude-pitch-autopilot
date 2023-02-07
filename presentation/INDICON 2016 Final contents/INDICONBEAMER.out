@@ -1,0 +1,13 @@
+\BOOKMARK [2][]{Outline0.1}{Outline}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Problems posed by actuators in autopilots}{}% 2
+\BOOKMARK [2][]{Outline0.3}{Design of UDE based robust control law and its performance study}{}% 3
+\BOOKMARK [3][]{Outline0.3.1.4}{Roll Dynamics of tactical missile}{Outline0.3}% 4
+\BOOKMARK [3][]{Outline0.3.2.6}{Design of UDE based control law assuming ideal actuator}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.3.9}{Performance of UDE based controller}{Outline0.3}% 6
+\BOOKMARK [2][]{Outline0.4}{Performance of UDE based controller with second order actuator in the loop}{}% 7
+\BOOKMARK [2][]{Outline0.5}{Actuator compensated UDE based control law}{}% 8
+\BOOKMARK [3][]{Outline0.5.1.16}{Method 1: Tuning of }{Outline0.5}% 9
+\BOOKMARK [3][]{Outline0.5.2.21}{Method 2: Using Compensator Form 1}{Outline0.5}% 10
+\BOOKMARK [3][]{Outline0.5.3.26}{Method 3: Using Compensator Form 2}{Outline0.5}% 11
+\BOOKMARK [2][]{Outline0.6}{Conclusion and future work}{}% 12
+\BOOKMARK [3][]{Outline0.6.1.36}{Thank You}{Outline0.6}% 13

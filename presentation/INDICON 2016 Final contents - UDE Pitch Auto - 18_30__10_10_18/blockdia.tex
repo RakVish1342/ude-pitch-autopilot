@@ -1,0 +1,32 @@
+
+\documentclass{article}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows,positioning}
+
+\begin{document}
+		
+	\tikzstyle{box} = [rectangle, minimum width=2cm, minimum height=2cm, text centered, draw=black]
+	
+	\tikzstyle{box1} = [rectangle, minimum width=2cm, minimum height=2cm, text centered, text width=2cm, draw=black]
+	
+	\tikzstyle{arrow} = [thick,->,>=stealth]
+	
+	\begin{tikzpicture}[auto, node distance=2.7cm,>=latex']
+	\node (bo1) [box] {PPG Signals};
+	\node (bo2) [box1, right of = bo1] {Pre-processing};
+	\node (bo3) [box1,right of = bo2]{Feature extraction from PPG and APG};
+	\node (bo4) [box1,right of = bo3]{Feature Selection};
+	\node (bo5) [box1,right of = bo4]{Classification
+		Using ELM};	
+	\node (bo6) [box,right of = bo5]{Validation};	
+	
+	\draw [arrow] (bo1) -- (bo2);
+	\draw [arrow] (bo2) -- (bo3);
+	\draw [arrow] (bo3) -- (bo4);
+	\draw [arrow] (bo4) -- (bo5);
+	\draw [arrow] (bo5) -- (bo6);
+	
+	
+	\end{tikzpicture}
+	
+\end{document}

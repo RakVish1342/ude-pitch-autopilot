@@ -1,0 +1,81 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Outline}{2}{Outline}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\sectionentry {2}{Problem Statement}{3}{Problem Statement}{0}}
+\headcommand {\slideentry {2}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@sectionpages {3}{3}}
+\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\sectionentry {3}{Missile Model}{4}{Missile Model}{0}}
+\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{4}{Governing Equations}}
+\headcommand {\slideentry {3}{1}{1}{4/4}{Governing Equations}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {3}{1}{2}{5/5}{Governing Equations}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionpages {4}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{6}{Overview of UDE Controller-Observer}}
+\headcommand {\slideentry {3}{2}{1}{6/6}{Overview of UDE Controller-Observer}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{7}{Controller and Observer Design}}
+\headcommand {\slideentry {3}{3}{1}{7/7}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {3}{3}{2}{8/8}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {3}{3}{3}{9/9}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {3}{3}{4}{10/10}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {3}{3}{5}{11/11}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {3}{3}{6}{12/12}{Controller and Observer Design}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionpages {7}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{13}{Stability Analysis}}
+\headcommand {\slideentry {3}{4}{1}{13/13}{Stability Analysis}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {4}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\sectionentry {4}{Simulations}{14}{Simulations}{0}}
+\headcommand {\slideentry {4}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{15}{Case I: UDE with Mach Dynamics \& External Disturbance}}
+\headcommand {\slideentry {4}{1}{1}{15/15}{Case I: UDE with Mach Dynamics \& External Disturbance}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {4}{1}{2}{16/16}{Case I: UDE with Mach Dynamics \& External Disturbance}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{17}{Case II: Comparative Study With Aerodynamic Uncertainties}}
+\headcommand {\slideentry {4}{2}{1}{17/17}{Case II: Comparative Study With Aerodynamic Uncertainties}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {4}{2}{2}{18/18}{Case II: Comparative Study With Aerodynamic Uncertainties}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@sectionpages {14}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\sectionentry {5}{Results and Conclusion}{19}{Results and Conclusion}{0}}
+\headcommand {\slideentry {5}{0}{1}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@sectionpages {19}{19}}
+\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\sectionentry {6}{Novelty and Future Work}{20}{Novelty and Future Work}{0}}
+\headcommand {\slideentry {6}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {6}{0}{2}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {20}{22}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{23}{Thank You}}
+\headcommand {\slideentry {6}{1}{1}{23/23}{Thank You}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@partpages {1}{24}}
+\headcommand {\beamer@subsectionpages {23}{24}}
+\headcommand {\beamer@sectionpages {20}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\gdef \inserttotalframenumber {22}}

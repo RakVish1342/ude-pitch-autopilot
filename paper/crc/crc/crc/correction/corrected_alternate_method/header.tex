@@ -1,0 +1,23 @@
+\documentclass[conference]{IEEEtran}
+
+\makeatletter
+\newcommand*\titleheader[1]{\gdef\@titleheader{#1}}
+\AtBeginDocument{%
+  \let\st@red@title\@title
+  \def\@title{%
+    \bgroup\normalfont\large\centering\@titleheader\par\egroup
+    \vskip1.5em\st@red@title}
+}
+\makeatother
+
+\title{A Serious Game for Eliciting Social Engineering Security Requirements}
+\titleheader{2016 IEEE 24th International Requirements Engineering Conference 2016 IEEE 24th International \\ 2016 IEEE 24th International Requirements Engineering Conference}
+\author{maxmin}
+
+
+\begin{document}
+%\Large\textbf{My title}\\ \large\textit{A. Thor}
+
+
+	\maketitle
+\end{document}
